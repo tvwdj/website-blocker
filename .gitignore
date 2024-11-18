@@ -1,0 +1,19 @@
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore log files
+*.log
+
+# Ignore .env files for environment variables
+.env
+
+# Ignore local virtual environment folders
+venv/
+__pycache__/
+
+# Ignore system files
+.DS_Store
+
+# Ignore the hosts file (if you don't want it to be tracked)
+hosts
